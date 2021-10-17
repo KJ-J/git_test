@@ -1,1 +1,1 @@
-This is Kamon's first git project!
+This is KJ-J's first git project!
