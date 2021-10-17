@@ -1,0 +1,1 @@
+This is Kamon's first git project!
